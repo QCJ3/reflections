@@ -15,6 +15,9 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	If you have a working production program and you want to add features. If while you're in production you
+	get a bug reported in production you can fix it and merge later.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
